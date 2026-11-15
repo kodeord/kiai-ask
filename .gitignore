@@ -1,0 +1,10 @@
+# Answers, logs and prompt files: data/ holds your prompts and answers
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
